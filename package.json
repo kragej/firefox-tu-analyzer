@@ -1,9 +1,10 @@
 {
-  "name": "tu-addon",
-  "title": "tu-addon",
-  "id": "jid1-p6CzAI3hLFBzpA",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+    "name": "firefox-tu-cardlog",
+    "title": "Tyrant Unleashed CardLog",
+    "id": "jid1-p6CzAI3hLFBzpA",
+    "description": "This addon logs every card purchase made in Tyrant Unleashed to a central database, where the data can be used for analysis",
+    "author": "Jakob Kragelund",
+    "license": "MPL 2.0",
+    "version": "0.1",
+    "homepage": "https://github.com/kragej/firefox-tu-cardlog"
 }
